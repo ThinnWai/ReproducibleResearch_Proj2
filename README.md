@@ -204,6 +204,7 @@ healthChart
 
 ![](ReproducibleResearchProject2_files/figure-markdown_github/healthChart-1.png)
 
+
 ### 3.2: Events that have the Greatest Economic Consequences
 
 Melting data.table so that it is easier to put in bar graph format
@@ -242,4 +243,4 @@ econChart = econChart + ggtitle("Top 10 US Storm Events causing Economic Consequ
 econChart
 ```
 
-![](ReproducibleResearchProject2_files/figure-markdown_github/econChart-1.png)
+![](ReproducibleResearch_Proj2/blob/master/econChart-1.png)
