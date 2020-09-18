@@ -242,5 +242,4 @@ econChart = econChart + ggtitle("Top 10 US Storm Events causing Economic Consequ
 
 econChart
 ```
-
 ![](ReproducibleResearch_Proj2/blob/master/econChart-1.png)
